@@ -1,0 +1,37 @@
+button {
+	color:yellow;
+	background-color:grey;
+	text-align:center;
+	padding:14px;
+	letter-spacing: 5px;
+	font-size:12px;
+	border-radius: 12px;
+
+    
+
+}
+
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+.part1{
+	        display: flex;
+            justify-content:center;
+            align-items: center;
+            font-size: 30px;
+            letter-spacing: 5px;
+            padding: 5px;
+            color:green;
+	}
+body{
+	background-color:orange;
+}
+p{
+	align-content: center;
+}
+.images{
+	text-align: center;
+}
+
+
+
